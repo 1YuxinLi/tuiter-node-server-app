@@ -5,7 +5,8 @@ import * as service
 
 export const findTuitsThunk = createAsyncThunk(
     'tuits/findTuits', async () =>
-        await service.findTuits()
+        let tuits = await service.findTuits()
+        return tuits
 )
 
 export const deleteTuitThunk = createAsyncThunk(
@@ -21,4 +22,9 @@ export const updateTuitThunk =
         async (tuit) =>
             await service.updateTuit(tuit)
     )
+
+export const createTuitThunk = createAsyncThunk(
+    'tuits/createTuit',
+    async (thunkAPI) => await service.createTuit(thunkAPI)
+);
 
