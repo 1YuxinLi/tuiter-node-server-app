@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="491c6022-bfe6-466d-aac6-134168a5d8f8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/services/tuits-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/services/tuits-service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/services/tuits-thunks.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/services/tuits-thunks.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +74,8 @@
       <updated>1668289968118</updated>
       <workItem from="1668289969419" duration="17405000" />
       <workItem from="1668672151504" duration="5714000" />
-      <workItem from="1668800744381" duration="4910000" />
+      <workItem from="1668800744381" duration="4936000" />
+      <workItem from="1669229007978" duration="4018000" />
     </task>
     <servers />
   </component>
