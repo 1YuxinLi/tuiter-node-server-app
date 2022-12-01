@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="491c6022-bfe6-466d-aac6-134168a5d8f8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/tuits/tuits.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/tuits/tuits.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +77,8 @@
       <workItem from="1668672151504" duration="5714000" />
       <workItem from="1668800744381" duration="4936000" />
       <workItem from="1669229007978" duration="4726000" />
-      <workItem from="1669794967460" duration="5153000" />
+      <workItem from="1669794967460" duration="6331000" />
+      <workItem from="1669855160773" duration="597000" />
     </task>
     <servers />
   </component>
