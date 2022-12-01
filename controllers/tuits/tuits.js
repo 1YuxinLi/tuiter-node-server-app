@@ -1,18 +1,4 @@
-export default [
-    {
-        "_id": 123, "topic": "Space", "username": "SpaceX",
-        "handle": "@spacex", "time": "2h", "image": "../../../images/rs_icon.jpg",
-        "title": "SpaceX's Mission",
-        "tuit": "You want to wake up in the morning and think the future is going to be great - and that’s what being a spacefaring civilization is all about. It’s about believing in the future and thinking that the future will be better than the past. And I can’t think of anything more exciting than going out there and being among the stars",
-        "liked": true, "likes": 2345,
-        "replies": 123, "retuits": 432
-    },
-    {
-        "_id": 234, "topic": "Traffic", "username": "The Boring Company",
-        "handle": "@boringcompany", "time": "2h", "image": "../../../images/tesla_icon.jpg",
-        "title": "100s of SpaceX Starships land on Mars after a 6 month journey. 1000s of Martian colonists being building Mars Base 1",
-        "tuit": "The Boring Company (TBC) is an American infrastructure and tunnel construction services company founded by Elon Musk. Its ongoing and proposed projects are designed for intra-city ('loop') transit systems.",
-        "liked": true, "likes": 2345,
-        "replies": 123, "retuits": 432
-    },
-];
+export default [{"_id":"6387093fc487e17312b5def9","tuit":"Tesla stock falls below 200","likes":0,"liked":false},
+                {"_id":"638709f3c487e17312b5defa","tuit":"Starlink likely to go public","likes":42069,"liked":true},
+                {"_id":"63870a2ac487e17312b5defb","tuit":"Model Y is most American made car","likes":69420,"liked":true},
+                {"_id":"63870ad6c487e17312b5defc","tuit":"100s of Starships land on Mars carrying 1000s of colonists","likes":69420,"liked":true}];
